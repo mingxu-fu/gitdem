@@ -1,2 +1,6 @@
 hello,this is my github test   aaaaaaaaaaaaaaaaaaaa
+<<<<<<< HEAD
 bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb1111122222233333
+=======
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb11111222222333339999999999999999
+>>>>>>> mytest
