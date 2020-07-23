@@ -1,2 +1,6 @@
 server:
   port: 8772
+
+spring:
+  application:
+    name: product-service
